@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://TomGeorge1234.github.io" 
+title: Tom George
 paginate: 20
 theme: PaperMod
 
@@ -11,29 +11,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Research
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Work in Progress
+          url: wp/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Home
+          url: /
+          weight: 1
+         # url: data/
+          #weight: 3 
+        #- name: Readings
+         # url: readings/
+          #weight: 4
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "Tom George's personal website"
+    author: Tom
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -42,8 +41,7 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,57 +51,52 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Tom George
+          subtitle: "Hello! I'm at PhD student at UCL studying **theoretical neuroscience and machine learning**. My research covers topics in **spatial navigation, reinforcement learning and representation learning** -- using theory and data-driven principles from machine learning I try to shed light on the fundamental principles of biological intelligence. I do this under the supervision of [**Kim Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
+          <br><br>
+          To achieve these goals I also build and maintain open-source tools for computational neuroscience including the [**RatInABox**](https://github.com/RatInABox-Lab/RatInABox) package. 
+          <br><br>
+          I also co-organise a [**CaMinA**](https://trendinafrica.org/trend-camina/), a residential summer school for computational neuroscience and machine learning, held each year in Africa dedicated to the promotion of open-source teaching materials and the development of a community of computational neuroscientists in Africa. 
+          <br><br>
+          If any of the above is of interest, get in touch! I'd really would love to chat."
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Tom
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Open source
+              url: open_source/
+            - name: Talks
+              url: talks/
+            - name: CaMinA
+              url: camina/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: blog/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:tom.george.20@ucl.ac.uk
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/tom-george-8170ba173/
+        - name : Google Scholar
+          url: https://scholar.google.com/citations?user=AG49j3MAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
+          url: https://github.com/TomGeorge1234
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://twitter.com/tomnotgeorge
 
     assets:
+        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Tom George"
       icon: favicon.ico
       iconHeight: 18
 
