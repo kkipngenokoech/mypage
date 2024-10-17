@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes | Tom George</title>
+<meta name="keywords" content="machine learning, variational autoencoders, cancer, transcriptomics">
+<meta name="description" content="We use variational autoencoders to compressed ovarian cancer transcriptomes and extract genetic markers predictive of chemotherapy resistance.">
+<meta name="author" content="Tom M George,&thinsp;Syed Haider,&thinsp;Pietro Lio">
+<link rel="canonical" href="http://localhost:1313/papers/ovaerian/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6528f5298efbfa3244a91b6254cc3b2e5c1a6a72adaa3231a31efb4adf9f7446.css" integrity="sha256-ZSj1KY77&#43;jJEqRtiVMw7LlwaanKtqjIxox77St&#43;fdEY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/papers/ovaerian/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes" />
+<meta property="og:description" content="We use variational autoencoders to compressed ovarian cancer transcriptomes and extract genetic markers predictive of chemotherapy resistance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/papers/ovaerian/" /><meta property="article:section" content="papers" />
+<meta property="article:published_time" content="2019-11-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2019-11-26T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes"/>
+<meta name="twitter:description" content="We use variational autoencoders to compressed ovarian cancer transcriptomes and extract genetic markers predictive of chemotherapy resistance."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Papers",
+      "item": "http://localhost:1313/papers/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes",
+      "item": "http://localhost:1313/papers/ovaerian/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes",
+  "name": "Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes",
+  "description": "We use variational autoencoders to compressed ovarian cancer transcriptomes and extract genetic markers predictive of chemotherapy resistance.",
+  "keywords": [
+    "machine learning", "variational autoencoders", "cancer", "transcriptomics"
+  ],
+  "articleBody": " Download Paper bioRxiv MSc Thesis Code and data Abstract Machine learning algorithms are revolutionising how information can be extracted from complex and high-dimensional data sets via intelligent compression. For example, unsupervised autoencoders train a deep neural network with a low-dimensional “bottlenecked” central layer to reconstruct input vectors. Variational Autoencoders (VAEs) have shown promise at learning meaningful latent spaces for text, image and more recently, gene-expression data. In the latter case they have been shown capable of capturing biologically relevant features such as a patients sex or tumour type. Here we train a VAE on ovarian cancer transcriptomes from The Cancer Genome Atlas and show that, in many cases, the latent spaces learns an encoding predictive of cisplatin chemotherapy resistance. We analyse the eﬀectiveness of such an architecture to a wide range of hyperparameters as well as use a state-of-the-art clustering algorithm, t-SNE, to embed the data in a two-dimensional manifold and visualise the predictive power of the trained latent spaces. By correlating genes to resistance-predictive encodings we are able to extract biological processes likely responsible for platinum resistance. Finally we demonstrate that variational autoencoders can reliably encode gene expression data contaminated with significant amounts of Gaussian and dropout noise, a necessary feature if this technique is to be applicable to other data sets, including those in non-medical fields.\nCitation George, Tom M., and Pietro Lio. “Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes.” bioRxiv (2019): 855593.\n@article{george2019unsupervised, title={Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes}, author={George, Tom M and Lio, Pietro}, journal={bioRxiv}, pages={855593}, year={2019}, publisher={Cold Spring Harbor Laboratory} } ",
+  "wordCount" : "265",
+  "inLanguage": "en",
+  "datePublished": "2019-11-26T00:00:00Z",
+  "dateModified": "2019-11-26T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Tom M George"
+  }, {
+    "@type": "Person",
+    "name": "Syed Haider"
+  }, {
+    "@type": "Person",
+    "name": "Pietro Lio"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/papers/ovaerian/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tom George",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Tom George">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Tom George</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers/" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/wp/" title="Work in Progress">
+                    <span>Work in Progress</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes
+    </h1>
+    <div class="post-meta"><span title='2019-11-26 00:00:00 +0000 UTC'>November 2019</span>&nbsp;&middot;&nbsp;Tom M George,&thinsp;Syed Haider,&thinsp;Pietro Lio
+
+</div>
+  </header> 
+  <div class="post-content"><hr>
+<h5 id="download">Download</h5>
+<ul>
+<li><a href="ovaerian.pdf">Paper</a>
+</li>
+<li><a href="https://www.biorxiv.org/content/10.1101/855593v1" target="_blank">bioRxiv</a>
+</li>
+<li><a href="PartIIIProject.pdf">MSc Thesis</a>
+</li>
+<li><a href="https://github.com/TomGeorge1234/oVAErian-Cancer" target="_blank">Code and data</a>
+</li>
+</ul>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<p>Machine learning algorithms are revolutionising how information can be extracted from complex and high-dimensional data sets via intelligent compression. For example, unsupervised autoencoders train a deep neural network with a low-dimensional “bottlenecked” central layer to reconstruct input vectors. Variational Autoencoders (VAEs) have shown promise at learning meaningful latent spaces for text, image and more recently, gene-expression data. In the latter case they have been shown capable of capturing biologically relevant features such as a patients sex or tumour type. Here we train a VAE on ovarian cancer transcriptomes from The Cancer Genome Atlas and show that, in many cases, the latent spaces learns an encoding predictive of cisplatin chemotherapy resistance. We analyse the eﬀectiveness of such an architecture to a wide range of hyperparameters as well as use a state-of-the-art clustering algorithm, t-SNE, to embed the data in a two-dimensional manifold and visualise the predictive power of the trained latent spaces. By correlating genes to resistance-predictive encodings we are able to extract biological processes likely responsible for platinum resistance. Finally we demonstrate that variational autoencoders can reliably encode gene expression data contaminated with significant amounts of Gaussian and dropout noise, a necessary feature if this technique is to be applicable to other data sets, including those in non-medical fields.</p>
+<hr>
+<h5 id="citation">Citation</h5>
+<p>George, Tom M., and Pietro Lio. &ldquo;Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes.&rdquo; bioRxiv (2019): 855593.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#0a0;text-decoration:underline">@article</span>{george2019unsupervised,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">title</span>=<span style="color:#a50">{Unsupervised machine learning for data encoding applied to ovarian cancer transcriptomes}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">author</span>=<span style="color:#a50">{George, Tom M and Lio, Pietro}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">journal</span>=<span style="color:#a50">{bioRxiv}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">pages</span>=<span style="color:#a50">{855593}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">year</span>=<span style="color:#a50">{2019}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">publisher</span>=<span style="color:#a50">{Cold Spring Harbor Laboratory}</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/machine-learning/">Machine Learning</a></li>
+      <li><a href="http://localhost:1313/tags/variational-autoencoders/">Variational Autoencoders</a></li>
+      <li><a href="http://localhost:1313/tags/cancer/">Cancer</a></li>
+      <li><a href="http://localhost:1313/tags/transcriptomics/">Transcriptomics</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>

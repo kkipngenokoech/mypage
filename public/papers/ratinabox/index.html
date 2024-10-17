@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments | Tom George</title>
+<meta name="keywords" content="hippocampus, navigation, place cells, grid cells, boundary vector cells, head direction cells, reinforcement learning, neural data, locomotion, synthetic data, Python, open-source, toolkit">
+<meta name="description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity.">
+<meta name="author" content="Tom M George,&thinsp;Mehul Rastogi,&thinsp;William de Cothi,&thinsp;Claudia Clopath,&thinsp;Kimberly Stachenfeld,&thinsp;Caswell Barry">
+<link rel="canonical" href="http://localhost:1313/papers/ratinabox/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.6528f5298efbfa3244a91b6254cc3b2e5c1a6a72adaa3231a31efb4adf9f7446.css" integrity="sha256-ZSj1KY77&#43;jJEqRtiVMw7LlwaanKtqjIxox77St&#43;fdEY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/papers/ratinabox/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments" />
+<meta property="og:description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/papers/ratinabox/" />
+<meta property="og:image" content="http://localhost:1313/ratinabox.gif" /><meta property="article:section" content="papers" />
+<meta property="article:published_time" content="2024-02-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-02-09T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/ratinabox.gif" />
+<meta name="twitter:title" content="RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments"/>
+<meta name="twitter:description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Papers",
+      "item": "http://localhost:1313/papers/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments",
+      "item": "http://localhost:1313/papers/ratinabox/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments",
+  "name": "RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments",
+  "description": "This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity.",
+  "keywords": [
+    "hippocampus", "navigation", "place cells", "grid cells", "boundary vector cells", "head direction cells", "reinforcement learning", "neural data", "locomotion", "synthetic data", "Python", "open-source", "toolkit"
+  ],
+  "articleBody": " Download Paper eLife Github Abstract Generating synthetic locomotory and neural data is a useful yet cumbersome step commonly required to study theoretical models of the brain’s role in spatial navigation. This process can be time consuming and, without a common framework, makes it difficult to reproduce or compare studies which each generate test data in different ways. In response, we present RatInABox, an open-­source Python toolkit designed to model realistic rodent locomotion and generate synthetic neural data from spatially modulated cell types. This software provides users with (i) the ability to construct one- or two-­dimensional environments with configurable barriers and visual cues, (ii) a physically realistic random motion model fitted to experimental data, (iii) rapid online calculation of neural data for many of the known self-­location or velocity selective cell types in the hippocampal formation (including place cells, grid cells, boundary vector cells, head direction cells) and (iv) a framework for constructing custom cell types, multi-layer network models and data- or policy-­controlled motion trajectories. The motion and neural models are spatially and temporally continuous as well as topographically sensitive to boundary conditions and walls. We demonstrate that out-­of-­the-box parameter settings replicate many aspects of rodent foraging behaviour such as velocity statistics and the tendency of rodents to over-­explore walls. Numerous tutorial scripts are provided, including examples where RatInABox is used for decoding position from neural data or to solve a navigational reinforcement learning task. We hope this tool will significantly streamline computational research into the brain’s role in navigation.\nDemo (see Github for more)\nCitation George, T. M., Rastogi, M., de Cothi, W., Clopath, C., Stachenfeld, K., \u0026 Barry, C. (2024). RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments. Elife, 13, e85274.\n@article{george2024ratinabox, title={RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments}, author={George, Tom M and Rastogi, Mehul and de Cothi, William and Clopath, Claudia and Stachenfeld, Kimberly and Barry, Caswell}, journal={Elife}, volume={13}, pages={e85274}, year={2024}, publisher={eLife Sciences Publications Limited} } Related material Nature methods spotlight eLife digest Sainsbury Wellcome Centre article Reviewer responses Cosyne abstract (2-page summary) Cosyne poster ",
+  "wordCount" : "346",
+  "inLanguage": "en",
+  "image":"http://localhost:1313/ratinabox.gif","datePublished": "2024-02-09T00:00:00Z",
+  "dateModified": "2024-02-09T00:00:00Z",
+  "author":[{
+    "@type": "Person",
+    "name": "Tom M George"
+  }, {
+    "@type": "Person",
+    "name": "Mehul Rastogi"
+  }, {
+    "@type": "Person",
+    "name": "William de Cothi"
+  }, {
+    "@type": "Person",
+    "name": "Claudia Clopath"
+  }, {
+    "@type": "Person",
+    "name": "Kimberly Stachenfeld"
+  }, {
+    "@type": "Person",
+    "name": "Caswell Barry"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/papers/ratinabox/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Tom George",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/" accesskey="h" title="Tom George">
+                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+                    height="18"
+                    width="18">Tom George</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/papers/" title="Research">
+                    <span>Research</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/wp/" title="Work in Progress">
+                    <span>Work in Progress</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+    <main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments
+    </h1>
+    <div class="post-meta"><span title='2024-02-09 00:00:00 +0000 UTC'>February 2024</span>&nbsp;&middot;&nbsp;Tom M George,&thinsp;Mehul Rastogi,&thinsp;William de Cothi,&thinsp;Claudia Clopath,&thinsp;Kimberly Stachenfeld,&thinsp;Caswell Barry&nbsp;&middot;&nbsp;<a href="https://github.com/RatInABox-Lab/RatInABox" rel="noopener noreferrer" target="_blank">eLife</a>
+
+</div>
+  </header> 
+  <div class="post-content"><h2 id="ratinaboxgif"><img loading="lazy" src="ratinabox.gif" alt=""  />
+</h2>
+<h5 id="download">Download</h5>
+<ul>
+<li><a href="ratinabox.pdf">Paper</a>
+</li>
+<li><a href="https://elifesciences.org/articles/85274" target="_blank">eLife</a>
+</li>
+<li><a href="https://github.com/RatInABox-Lab/RatInABox" target="_blank">Github</a>
+</li>
+</ul>
+<hr>
+<h5 id="abstract">Abstract</h5>
+<p>Generating synthetic locomotory and neural data is a useful yet cumbersome step commonly required to study theoretical models of the brain’s role in spatial navigation. This process can be time consuming and, without a common framework, makes it difficult to reproduce or compare studies which each generate test data in different ways. In response, we present RatInABox, an open-­source Python toolkit designed to model realistic rodent locomotion and generate synthetic neural data from spatially modulated cell types. This software provides users with (i) the ability to construct one- or two-­dimensional environments with configurable barriers and visual cues, (ii) a physically realistic random motion model fitted to experimental data, (iii) rapid online calculation of neural data for many of the known self-­location or velocity selective cell types in the hippocampal formation (including place cells, grid cells, boundary vector cells, head direction cells) and (iv) a framework for constructing custom cell types, multi-layer network models and data- or policy-­controlled motion trajectories. The motion and neural models are spatially and temporally continuous as well as topographically sensitive to boundary conditions and walls. We demonstrate that out-­of-­the-box parameter settings replicate many aspects of rodent foraging behaviour such as velocity statistics and the tendency of rodents to over-­explore walls. Numerous tutorial scripts are provided, including examples where RatInABox is used for decoding position from neural data or to solve a navigational reinforcement learning task. We hope this tool will significantly streamline computational research into the brain’s role in navigation.</p>
+<hr>
+<h5 id="demo">Demo</h5>
+<p><img loading="lazy" src="riab_from_scratch.gif" alt=""  />
+</p>
+<p>(see Github for more)</p>
+<hr>
+<h5 id="citation">Citation</h5>
+<p>George, T. M., Rastogi, M., de Cothi, W., Clopath, C., Stachenfeld, K., &amp; Barry, C. (2024). RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments. Elife, 13, e85274.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-BibTeX" data-lang="BibTeX"><span style="display:flex;"><span><span style="color:#0a0;text-decoration:underline">@article</span>{george2024ratinabox,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">title</span>=<span style="color:#a50">{RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">author</span>=<span style="color:#a50">{George, Tom M and Rastogi, Mehul and de Cothi, William and Clopath, Claudia and Stachenfeld, Kimberly and Barry, Caswell}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">journal</span>=<span style="color:#a50">{Elife}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">volume</span>=<span style="color:#a50">{13}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">pages</span>=<span style="color:#a50">{e85274}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">year</span>=<span style="color:#a50">{2024}</span>,
+</span></span><span style="display:flex;"><span>  <span style="color:#1e90ff">publisher</span>=<span style="color:#a50">{eLife Sciences Publications Limited}</span>
+</span></span><span style="display:flex;"><span>}
+</span></span></code></pre></div><hr>
+<h5 id="related-material">Related material</h5>
+<ul>
+<li><a href="https://www.nature.com/articles/s41592-024-02251-4" target="_blank">Nature methods spotlight</a>
+</li>
+<li><a href="https://elifesciences.org/digests/85274/modelling-motion-with-ratinabox" target="_blank">eLife digest</a>
+</li>
+<li><a href="https://www.sainsburywellcome.org/web/blog/ratinabox-new-toolkit-modelling-navigation-brain" target="_blank">Sainsbury Wellcome Centre article</a>
+</li>
+<li><a href="responses.pdf">Reviewer responses</a>
+</li>
+<li><a href="cosyne_riab.pdf">Cosyne abstract (2-page summary)</a>
+</li>
+<li><a href="cosyneposter_riab.pdf">Cosyne poster</a>
+</li>
+</ul>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/hippocampus/">Hippocampus</a></li>
+      <li><a href="http://localhost:1313/tags/navigation/">Navigation</a></li>
+      <li><a href="http://localhost:1313/tags/place-cells/">Place Cells</a></li>
+      <li><a href="http://localhost:1313/tags/grid-cells/">Grid Cells</a></li>
+      <li><a href="http://localhost:1313/tags/boundary-vector-cells/">Boundary Vector Cells</a></li>
+      <li><a href="http://localhost:1313/tags/head-direction-cells/">Head Direction Cells</a></li>
+      <li><a href="http://localhost:1313/tags/reinforcement-learning/">Reinforcement Learning</a></li>
+      <li><a href="http://localhost:1313/tags/neural-data/">Neural Data</a></li>
+      <li><a href="http://localhost:1313/tags/locomotion/">Locomotion</a></li>
+      <li><a href="http://localhost:1313/tags/synthetic-data/">Synthetic Data</a></li>
+      <li><a href="http://localhost:1313/tags/python/">Python</a></li>
+      <li><a href="http://localhost:1313/tags/open-source/">Open-Source</a></li>
+      <li><a href="http://localhost:1313/tags/toolkit/">Toolkit</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+</html>

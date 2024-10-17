@@ -52,18 +52,23 @@ params:
     profileMode:
           enabled: true
           title: Tom George
-          subtitle: "Hello! I'm at PhD student at UCL studying **theoretical neuroscience and machine learning**. My research covers topics in **spatial navigation, reinforcement learning and representation learning** -- using theory and data-driven principles from machine learning I try to shed light on the fundamental principles of biological intelligence. I do this under the supervision of [**Kim Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
-          <br><br>
-          To achieve these goals I also build and maintain open-source tools for computational neuroscience including the [**RatInABox**](https://github.com/RatInABox-Lab/RatInABox) package. 
-          <br><br>
-          I also co-organise a [**CaMinA**](https://trendinafrica.org/trend-camina/), a residential summer school for computational neuroscience and machine learning, held each year in Africa dedicated to the promotion of open-source teaching materials and the development of a community of computational neuroscientists in Africa. 
-          <br><br>
-          If any of the above is of interest, get in touch! I'd really would love to chat."
+          subtitle: "**Hi, I'm at PhD student at UCL$^*$ studying theoretical neuroscience and machine learning**. 
+                    <br><br>
+                    My research is in spatial navigation, reinforcement learning and representation learning -- I use theory and data-driven principles from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
+                    <br><br>
+                    I build and maintain open-source tools for science including the [**RatInABox**](https://github.com/RatInABox-Lab/RatInABox) package. I also co-founded [**CaMinA,**](https://trendinafrica.org/trend-camina/) a summer school for computational neuroscience and machine learning in Africa.
+                    <br><br>
+                    * 
+                    submitting soon and seeking postdocs and job in/around computational neuroscience and machine learning. I'll be doing an AI residency at [Google X](https://x.company) until Autumn 2025.
+                    "
+                    
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Tom
           buttons:
+            - name: More about me
+              url: moreaboutme/
             - name: Research
               url: papers/
             - name: Open source
@@ -72,16 +77,16 @@ params:
               url: talks/
             - name: CaMinA
               url: camina/
-            - name: Blog
-              url: blog/
+            # - name: Blog
+            #   url: blog/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:tom.george.20@ucl.ac.uk
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/tom-george-8170ba173/
+        # - name: LinkedIn
+        #   url: https://www.linkedin.com/in/tom-george-8170ba173/
         - name : Google Scholar
           url: https://scholar.google.com/citations?user=AG49j3MAAAAJ&hl=en
         - name: GitHub
