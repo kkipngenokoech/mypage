@@ -53,14 +53,14 @@ params:
     profileMode:
           enabled: true
           title: Tom George
-          subtitle: "**Hi, I'm at PhD student at UCL$^*$ studying theoretical neuroscience and machine learning**. 
+          subtitle: "Hi, I'm at PhD student at UCL$^*$ studying theoretical neuroscience and machine learning. 
                     <br><br>
                     My research is in spatial navigation, reinforcement learning and representation learning -- I use theory and data-driven principles from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
                     <br><br>
                     I build and maintain open-source tools for science including the [**RatInABox**](https://github.com/RatInABox-Lab/RatInABox) package. I also co-founded [**CaMinA,**](https://trendinafrica.org/trend-camina/) a summer school for computational neuroscience and machine learning in Africa.
                     <br><br>
                     * 
-                    submitting soon and seeking postdocs and job in/around computational neuroscience and machine learning. I'll be doing an AI residency at [Google X](https://x.company) until Autumn 2025.
+                    submitting soon and seeking postdocs. I'll be doing an AI residency at [Google X](https://x.company) until Autumn 2025.
                     "
                     
           imageUrl: "picture.png"
