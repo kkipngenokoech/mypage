@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments | Tom George</title>
 <meta name="keywords" content="hippocampus, navigation, place cells, grid cells, boundary vector cells, head direction cells, reinforcement learning, neural data, locomotion, synthetic data, Python, open-source, toolkit">
 <meta name="description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity.">
 <meta name="author" content="Tom M George,&thinsp;Mehul Rastogi,&thinsp;William de Cothi,&thinsp;Claudia Clopath,&thinsp;Kimberly Stachenfeld,&thinsp;Caswell Barry">
-<link rel="canonical" href="http://localhost:1313/papers/ratinabox/">
+<link rel="canonical" href="https://TomGeorge1234.github.io/papers/ratinabox/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.6528f5298efbfa3244a91b6254cc3b2e5c1a6a72adaa3231a31efb4adf9f7446.css" integrity="sha256-ZSj1KY77&#43;jJEqRtiVMw7LlwaanKtqjIxox77St&#43;fdEY=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
+<link rel="icon" href="https://TomGeorge1234.github.io/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://TomGeorge1234.github.io/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://TomGeorge1234.github.io/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://TomGeorge1234.github.io/apple-touch-icon.png">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/papers/ratinabox/">
+<link rel="alternate" hreflang="en" href="https://TomGeorge1234.github.io/papers/ratinabox/">
 <noscript>
     <style>
         #theme-toggle,
@@ -29,15 +29,16 @@
 </noscript><meta property="og:title" content="RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments" />
 <meta property="og:description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/papers/ratinabox/" />
-<meta property="og:image" content="http://localhost:1313/ratinabox.gif" /><meta property="article:section" content="papers" />
+<meta property="og:url" content="https://TomGeorge1234.github.io/papers/ratinabox/" />
+<meta property="og:image" content="https://TomGeorge1234.github.io/ratinabox.gif" /><meta property="article:section" content="papers" />
 <meta property="article:published_time" content="2024-02-09T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-02-09T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/ratinabox.gif" />
+<meta name="twitter:image" content="https://TomGeorge1234.github.io/ratinabox.gif" />
 <meta name="twitter:title" content="RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments"/>
 <meta name="twitter:description" content="This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity."/>
+<meta name="twitter:site" content="@tomnotgeorge"/>
 
 
 <script type="application/ld+json">
@@ -49,13 +50,13 @@
       "@type": "ListItem",
       "position":  1 ,
       "name": "Papers",
-      "item": "http://localhost:1313/papers/"
+      "item": "https://TomGeorge1234.github.io/papers/"
     }, 
     {
       "@type": "ListItem",
       "position":  2 ,
       "name": "RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments",
-      "item": "http://localhost:1313/papers/ratinabox/"
+      "item": "https://TomGeorge1234.github.io/papers/ratinabox/"
     }
   ]
 }
@@ -73,7 +74,7 @@
   "articleBody": " Download Paper eLife Github Abstract Generating synthetic locomotory and neural data is a useful yet cumbersome step commonly required to study theoretical models of the brain’s role in spatial navigation. This process can be time consuming and, without a common framework, makes it difficult to reproduce or compare studies which each generate test data in different ways. In response, we present RatInABox, an open-­source Python toolkit designed to model realistic rodent locomotion and generate synthetic neural data from spatially modulated cell types. This software provides users with (i) the ability to construct one- or two-­dimensional environments with configurable barriers and visual cues, (ii) a physically realistic random motion model fitted to experimental data, (iii) rapid online calculation of neural data for many of the known self-­location or velocity selective cell types in the hippocampal formation (including place cells, grid cells, boundary vector cells, head direction cells) and (iv) a framework for constructing custom cell types, multi-layer network models and data- or policy-­controlled motion trajectories. The motion and neural models are spatially and temporally continuous as well as topographically sensitive to boundary conditions and walls. We demonstrate that out-­of-­the-box parameter settings replicate many aspects of rodent foraging behaviour such as velocity statistics and the tendency of rodents to over-­explore walls. Numerous tutorial scripts are provided, including examples where RatInABox is used for decoding position from neural data or to solve a navigational reinforcement learning task. We hope this tool will significantly streamline computational research into the brain’s role in navigation.\nDemo (see Github for more)\nCitation George, T. M., Rastogi, M., de Cothi, W., Clopath, C., Stachenfeld, K., \u0026 Barry, C. (2024). RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments. Elife, 13, e85274.\n@article{george2024ratinabox, title={RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments}, author={George, Tom M and Rastogi, Mehul and de Cothi, William and Clopath, Claudia and Stachenfeld, Kimberly and Barry, Caswell}, journal={Elife}, volume={13}, pages={e85274}, year={2024}, publisher={eLife Sciences Publications Limited} } Related material Nature methods spotlight eLife digest Sainsbury Wellcome Centre article Reviewer responses Cosyne abstract (2-page summary) Cosyne poster ",
   "wordCount" : "346",
   "inLanguage": "en",
-  "image":"http://localhost:1313/ratinabox.gif","datePublished": "2024-02-09T00:00:00Z",
+  "image":"https://TomGeorge1234.github.io/ratinabox.gif","datePublished": "2024-02-09T00:00:00Z",
   "dateModified": "2024-02-09T00:00:00Z",
   "author":[{
     "@type": "Person",
@@ -96,14 +97,14 @@
   }],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/papers/ratinabox/"
+    "@id": "https://TomGeorge1234.github.io/papers/ratinabox/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "Tom George",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/favicon.ico"
+      "url": "https://TomGeorge1234.github.io/favicon.ico"
     }
   }
 }
@@ -144,8 +145,8 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Tom George">
-                <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
+            <a href="https://TomGeorge1234.github.io/" accesskey="h" title="Tom George">
+                <img src="https://TomGeorge1234.github.io/favicon.ico" alt="" aria-label="logo"
                     height="18"
                     width="18">Tom George</a>
             <div class="logo-switches">
@@ -153,17 +154,17 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/" title="Home">
+                <a href="https://TomGeorge1234.github.io/" title="Home">
                     <span>Home</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/papers/" title="Research">
+                <a href="https://TomGeorge1234.github.io/papers/" title="Research">
                     <span>Research</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/wp/" title="Work in Progress">
+                <a href="https://TomGeorge1234.github.io/wp/" title="Work in Progress">
                     <span>Work in Progress</span>
                 </a>
             </li>
@@ -235,19 +236,19 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/hippocampus/">Hippocampus</a></li>
-      <li><a href="http://localhost:1313/tags/navigation/">Navigation</a></li>
-      <li><a href="http://localhost:1313/tags/place-cells/">Place Cells</a></li>
-      <li><a href="http://localhost:1313/tags/grid-cells/">Grid Cells</a></li>
-      <li><a href="http://localhost:1313/tags/boundary-vector-cells/">Boundary Vector Cells</a></li>
-      <li><a href="http://localhost:1313/tags/head-direction-cells/">Head Direction Cells</a></li>
-      <li><a href="http://localhost:1313/tags/reinforcement-learning/">Reinforcement Learning</a></li>
-      <li><a href="http://localhost:1313/tags/neural-data/">Neural Data</a></li>
-      <li><a href="http://localhost:1313/tags/locomotion/">Locomotion</a></li>
-      <li><a href="http://localhost:1313/tags/synthetic-data/">Synthetic Data</a></li>
-      <li><a href="http://localhost:1313/tags/python/">Python</a></li>
-      <li><a href="http://localhost:1313/tags/open-source/">Open-Source</a></li>
-      <li><a href="http://localhost:1313/tags/toolkit/">Toolkit</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/hippocampus/">Hippocampus</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/navigation/">Navigation</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/place-cells/">Place Cells</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/grid-cells/">Grid Cells</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/boundary-vector-cells/">Boundary Vector Cells</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/head-direction-cells/">Head Direction Cells</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/reinforcement-learning/">Reinforcement Learning</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/neural-data/">Neural Data</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/locomotion/">Locomotion</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/synthetic-data/">Synthetic Data</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/python/">Python</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/open-source/">Open-Source</a></li>
+      <li><a href="https://TomGeorge1234.github.io/tags/toolkit/">Toolkit</a></li>
     </ul>
   </footer>
 </article>

@@ -1,6 +1,7 @@
 baseURL: "https://TomGeorge1234.github.io" 
 title: Tom George
-paginate: 20
+pagination:
+  pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -85,14 +86,20 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:tom.george.20@ucl.ac.uk
-        # - name: LinkedIn
-        #   url: https://www.linkedin.com/in/tom-george-8170ba173/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/tom-george-8170ba173/
         - name : Google Scholar
           url: https://scholar.google.com/citations?user=AG49j3MAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/TomGeorge1234
         - name: Twitter
           url: https://twitter.com/tomnotgeorge
+    
+    social:
+        github: TomGeorge1234
+        twitter: tomnotgeorge
+        linkedin: tom-george-8170ba173
+
 
     assets:
         disableHLJS: true

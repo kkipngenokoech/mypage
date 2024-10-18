@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Neural Networks on Tom George</title>
-    <link>http://localhost:1313/tags/neural-networks/</link>
+    <link>https://TomGeorge1234.github.io/tags/neural-networks/</link>
     <description>Recent content in Neural Networks on Tom George</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://TomGeorge1234.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What makes neurons picky</title>
-      <link>http://localhost:1313/papers/whatmakesneuronspicky/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/whatmakesneuronspicky/</guid>
+      <link>https://TomGeorge1234.github.io/papers/whatmakesneuronspicky/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://TomGeorge1234.github.io/papers/whatmakesneuronspicky/</guid>
       <description>We train neural networks to solve multiple tasks simultaneously and study when and why individual neurons become selective or mixed-selective.</description>
     </item>
   </channel>
