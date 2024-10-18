@@ -15,12 +15,12 @@ menu:
         - name: Research
           url: papers/
           weight: 2
-        - name: Work in Progress
-          url: wp/
-          weight: 3
         - name: Home
           url: /
           weight: 1
+        - name: CV
+          url: cv.pdf
+          weight: 3
          # url: data/
           #weight: 3 
         #- name: Readings
@@ -28,7 +28,7 @@ menu:
           #weight: 4
 
 params:
-    description: "Tom George's personal website"
+    description: "because www.tom.com was taken"
     author: Tom
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -55,12 +55,14 @@ params:
           title: Tom George
           subtitle: "Hi, I'm at PhD student at UCL$^*$ studying theoretical neuroscience and machine learning. 
                     <br><br>
-                    My research is in spatial navigation, reinforcement learning and representation learning -- I use theory and data-driven principles from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
+                    My research is in spatial navigation, reinforcement learning and representation learning -- I use theoretical methods and data-driven techniques from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
                     <br><br>
                     I build and maintain open-source tools for science including the [**RatInABox**](https://github.com/RatInABox-Lab/RatInABox) package. I also co-founded [**CaMinA,**](https://trendinafrica.org/trend-camina/) a summer school for computational neuroscience and machine learning in Africa.
                     <br><br>
+                    **Get in touch!** If any of the above interests you, or you are pursuing similar goals, I'd love to [chat.](mailto:tom.george.20@ucl.ac.uk)
+                    <br>
                     * 
-                    submitting soon and seeking postdocs. I'll be doing an AI residency at [Google X](https://x.company) until Autumn 2025.
+                    <sub>submitting soon and seeking postdocs. I'll be in the Bay Area doing an AI residency at Google X until mid-2025.</sub>
                     "
                     
           imageUrl: "picture.png"
@@ -72,22 +74,24 @@ params:
               url: moreaboutme/
             - name: Research
               url: papers/
-            - name: Open source
-              url: open_source/
-            - name: Talks
-              url: talks/
+            - name: Teaching
+              url: teaching/
+            - name: CV
+              url: cv.pdf
+            - name: RatInABox
+              url: https://github.com/RatInABox-Lab/RatInABox
             - name: CaMinA
-              url: camina/
-            # - name: Blog
-            #   url: blog/
+              url: https://trendinafrica.org/trend-camina/
+
+
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:tom.george.20@ucl.ac.uk
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/tom-george-8170ba173/
+        # - name: LinkedIn
+          # url: https://www.linkedin.com/in/tom-george-8170ba173/
         - name : Google Scholar
           url: https://scholar.google.com/citations?user=AG49j3MAAAAJ&hl=en
         - name: GitHub
@@ -109,7 +113,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Tom George"
-      icon: favicon.ico
+      icon: picture.png
       iconHeight: 18
 
 markup:

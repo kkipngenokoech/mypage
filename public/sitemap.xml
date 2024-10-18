@@ -2,254 +2,238 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TomGeorge1234.github.io/tags/dimensionality-reduction/</loc>
+    <loc>http://localhost:1313/papers/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/grid-cells/</loc>
+    <loc>http://localhost:1313/tags/dimensionality-reduction/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/latents/</loc>
+    <loc>http://localhost:1313/tags/grid-cells/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/</loc>
+    <loc>http://localhost:1313/tags/latents/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/place-filds/</loc>
+    <loc>http://localhost:1313/tags/place-filds/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/simpl/</loc>
+    <loc>http://localhost:1313/papers/simpl/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/tuning-curves/</loc>
+    <loc>http://localhost:1313/tags/tuning-curves/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/hippocampus/</loc>
+    <loc>http://localhost:1313/tags/hippocampus/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/replay/</loc>
+    <loc>http://localhost:1313/tags/replay/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/ppseqreplay/</loc>
+    <loc>http://localhost:1313/papers/ppseqreplay/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/sequence-detection/</loc>
+    <loc>http://localhost:1313/tags/sequence-detection/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/striatum/</loc>
+    <loc>http://localhost:1313/tags/striatum/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/location/</loc>
+    <loc>http://localhost:1313/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/officehours/</loc>
+    <loc>http://localhost:1313/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/helmholtzhippocampus/</loc>
+    <loc>http://localhost:1313/papers/helmholtzhippocampus/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/generative-models/</loc>
+    <loc>http://localhost:1313/tags/generative-models/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/helmholtz-machines/</loc>
+    <loc>http://localhost:1313/tags/helmholtz-machines/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/local-learning/</loc>
+    <loc>http://localhost:1313/tags/local-learning/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/thet/</loc>
+    <loc>http://localhost:1313/tags/thet/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/boundary-vector-cells/</loc>
+    <loc>http://localhost:1313/tags/boundary-vector-cells/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/head-direction-cells/</loc>
+    <loc>http://localhost:1313/tags/head-direction-cells/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/locomotion/</loc>
+    <loc>http://localhost:1313/tags/locomotion/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/navigation/</loc>
+    <loc>http://localhost:1313/tags/navigation/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/neural-data/</loc>
+    <loc>http://localhost:1313/tags/neural-data/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/open-source/</loc>
+    <loc>http://localhost:1313/tags/open-source/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/place-cells/</loc>
+    <loc>http://localhost:1313/tags/place-cells/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/python/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/ratinabox/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/reinforcement-learning/</loc>
+    <loc>http://localhost:1313/papers/ratinabox/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/synthetic-data/</loc>
+    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/toolkit/</loc>
+    <loc>http://localhost:1313/tags/synthetic-data/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/bootstrapping/</loc>
+    <loc>http://localhost:1313/tags/toolkit/</loc>
+    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bootstrapping/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/representations/</loc>
+    <loc>http://localhost:1313/tags/representations/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/tdlambda/</loc>
+    <loc>http://localhost:1313/tags/tdlambda/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/theta/</loc>
+    <loc>http://localhost:1313/tags/theta/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/theta-sequences/</loc>
+    <loc>http://localhost:1313/tags/theta-sequences/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/eligibilitytheta/</loc>
+    <loc>http://localhost:1313/papers/eligibilitytheta/</loc>
     <lastmod>2023-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/stdpsr/</loc>
+    <loc>http://localhost:1313/papers/stdpsr/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/stdp/</loc>
+    <loc>http://localhost:1313/tags/stdp/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/successor-representations/</loc>
+    <loc>http://localhost:1313/tags/successor-representations/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/cnn/</loc>
+    <loc>http://localhost:1313/tags/cnn/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/turbulence/</loc>
+    <loc>http://localhost:1313/papers/turbulence/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/ocenaography/</loc>
+    <loc>http://localhost:1313/tags/ocenaography/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/turbulence/</loc>
+    <loc>http://localhost:1313/tags/turbulence/</loc>
     <lastmod>2021-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/chunking/</loc>
+    <loc>http://localhost:1313/tags/chunking/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/reservoir-computing/</loc>
+    <loc>http://localhost:1313/tags/reservoir-computing/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/reserviornets/</loc>
+    <loc>http://localhost:1313/papers/reserviornets/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/sequential-data/</loc>
+    <loc>http://localhost:1313/tags/sequential-data/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/unsupervised-learning/</loc>
+    <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/deep-learning/</loc>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/neural-networks/</loc>
+    <loc>http://localhost:1313/tags/neural-networks/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/representation-learning/</loc>
+    <loc>http://localhost:1313/tags/representation-learning/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/selectivity/</loc>
+    <loc>http://localhost:1313/tags/selectivity/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/whatmakesneuronspicky/</loc>
+    <loc>http://localhost:1313/papers/whatmakesneuronspicky/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/cancer/</loc>
+    <loc>http://localhost:1313/tags/cancer/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/transcriptomics/</loc>
+    <loc>http://localhost:1313/tags/transcriptomics/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/papers/ovaerian/</loc>
+    <loc>http://localhost:1313/papers/ovaerian/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/variational-autoencoders/</loc>
+    <loc>http://localhost:1313/tags/variational-autoencoders/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/data/</loc>
+    <loc>http://localhost:1313/courses/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/dataset/</loc>
+    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/french/</loc>
+    <loc>http://localhost:1313/courses/course1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/irregular-verbs/</loc>
+    <loc>http://localhost:1313/tags/philology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/italian/</loc>
+    <loc>http://localhost:1313/tags/portuguese/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/data/data1/</loc>
+    <loc>http://localhost:1313/tags/romance-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/philology/</loc>
+    <loc>http://localhost:1313/tags/spanish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/portuguese/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/romance-languages/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/simulations/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/spanish/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/courses/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/courses/course1/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://TomGeorge1234.github.io/books/</loc>
+    <loc>http://localhost:1313/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/portugese/</loc>
+    <loc>http://localhost:1313/tags/portugese/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/books/book1/</loc>
+    <loc>http://localhost:1313/books/book1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/celtic-languages/</loc>
+    <loc>http://localhost:1313/tags/celtic-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/irish/</loc>
+    <loc>http://localhost:1313/tags/irish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/language-modernization/</loc>
+    <loc>http://localhost:1313/tags/language-modernization/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/tags/profanity/</loc>
+    <loc>http://localhost:1313/tags/profanity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/courses/course2/</loc>
+    <loc>http://localhost:1313/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/moreaboutme/</loc>
+    <loc>http://localhost:1313/moreaboutme/</loc>
   </url><url>
-    <loc>https://TomGeorge1234.github.io/archive/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>

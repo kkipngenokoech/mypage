@@ -3,11 +3,9 @@ title: "SIMPL: Scalable and hassle-free optimisation of neural representations f
 date: 2024-10-01
 tags: ["latents", "place filds", "grid cells", "tuning curves", "dimensionality reduction"]
 author: ["Tom M George", "Pierre Glaser", "Kimberly Stachenfeld", "Caswell Barry", "Claudia Clopath"]
-description: "By iteratively refitting tuning curves and redecoding latent variables, you can optimise " 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+summary: "An efficient technique for optimising tuning curves starting from behaviour by iteratively refitting the tuning curves and redecoding the latent variables." 
 cover:
     image: "simpl.gif"
-    alt: "Some Uses For Olive Oil"
     relative: false
 editPost:
     URL: ""
@@ -36,7 +34,6 @@ High-dimensional neural activity in the brain is known to encode low-dimensional
 ##### Citation
 
 This paper is current unpublished and under review. Please check back later for the citation.
-
 
 <!-- Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
 
