@@ -27,11 +27,11 @@ Before my PhD I was a Herchel Smith scholar
 I did my MSc thesis on unsupervised ML for cancer transcriptomics
  at the ICR
  with Prof. Pietro Lio and Dr. Syed Haider
-I did my undergraduate (and was also born) in Cambridge. Here, I used to row a lot.
+I did my BA &amp; MSc in physics (Natural sciences) in Cambridge. I was also born here. At uni I used to row a lot.
 I did a summer undergraduate reseach fellowship
  at Caltech** with Profs. Andrew Thompson and Georgy Manucharyan looking at CNNs for turbulence prediction
 
-I&rsquo;m not just an academic; I was brielfy a consultant for a London-based financial start-up building ML tools for automated business valuations.
+I&rsquo;m not just an academic; I was briefly a consultant for a London-based financial start-up building ML tools for automating business valuations.
 
 Non-academic
 
@@ -121,6 +121,12 @@ Whilst living in London, my friends and I have been trying to map-out all good p
 </head>
 
 <body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
 
 <header class="header">
     <nav class="nav">
@@ -130,6 +136,26 @@ Whilst living in London, my friends and I have been trying to map-out all good p
                     height="18"
                     width="18">Tom George</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -139,13 +165,45 @@ Whilst living in London, my friends and I have been trying to map-out all good p
                 </a>
             </li>
             <li>
+                <a href="http://localhost:1313/moreaboutme/" title="More about me">
+                    <span class="active">More about me</span>
+                </a>
+            </li>
+            <li>
                 <a href="http://localhost:1313/papers/" title="Research">
                     <span>Research</span>
                 </a>
             </li>
             <li>
+                <a href="http://localhost:1313/teaching/" title="Teaching">
+                    <span>Teaching</span>
+                </a>
+            </li>
+            <li>
                 <a href="http://localhost:1313/cv.pdf" title="CV">
                     <span>CV</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/RatInABox-Lab/RatInABox" title="RatInABox">
+                    <span>RatInABox</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
+                </a>
+            </li>
+            <li>
+                <a href="https://trendinafrica.org/trend-camina/" title="CaMinA">
+                    <span>CaMinA</span>&nbsp;
+                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
+                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+                        <path d="M15 3h6v6"></path>
+                        <path d="M10 14L21 3"></path>
+                    </svg>
                 </a>
             </li>
         </ul>
@@ -173,11 +231,11 @@ Whilst living in London, my friends and I have been trying to map-out all good p
 <li>I did my <strong>MSc thesis on <a href="../papers/oVAErian/">unsupervised ML for cancer transcriptomics</a>
 </strong> at the <a href="https://www.icr.ac.uk" target="_blank">ICR</a>
  with Prof. Pietro Lio and Dr. Syed Haider</li>
-<li>I did my <strong>undergraduate (and was also born) in Cambridge</strong>. Here, I used to row a lot.</li>
+<li>I did my <strong>BA &amp; MSc in physics (Natural sciences) in Cambridge</strong>. I was also born here. At uni I used to row a lot.</li>
 <li>I did a <strong><a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">summer undergraduate reseach fellowship</a>
  at Caltech</strong>** with Profs. Andrew Thompson and Georgy Manucharyan looking at <a href="../papers/turbulence/">CNNs for turbulence prediction</a>
 </li>
-<li>I&rsquo;m not just an academic; I was brielfy a <strong>consultant for a London-based financial start-up</strong> building ML tools for automated business valuations.</li>
+<li>I&rsquo;m not just an academic; I was briefly a <strong>consultant for a London-based financial start-up</strong> building ML tools for automating business valuations.</li>
 </ul>
 <h3 id="non-academic">Non-academic</h3>
 <ul>
@@ -224,6 +282,18 @@ Whilst living in London, my friends and I have been trying to map-out all good p
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

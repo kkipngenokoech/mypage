@@ -8,9 +8,9 @@
 * During this time I was a **participant on the [OCNC](https://groups.oist.jp/ocnc/tutors-participants-ocnc2022) summer school**\*\*
 * Before my PhD I was a **[Herchel Smith scholar](https://www.emma.cam.ac.uk/about/jobs/harvard/dates/) at Harvard**. This scholarship allowed me to pivot from physics to neuroscience. I worked with Prof. Cengiz Pehlevan and Prof. Sam Gershman on various [bits and bobs](../papers/whatmakesneuronspicky/). 
 * I did my **MSc thesis on [unsupervised ML for cancer transcriptomics](../papers/oVAErian/)** at the [ICR](https://www.icr.ac.uk) with Prof. Pietro Lio and Dr. Syed Haider
-* I did my **undergraduate (and was also born) in Cambridge**. Here, I used to row a lot. 
+* I did my **BA & MSc in physics (Natural sciences) in Cambridge**. I was also born here. At uni I used to row a lot. 
 * I did a **[summer undergraduate reseach fellowship](https://sfp.caltech.edu/undergraduate-research/programs/surf) at Caltech**\*\* with Profs. Andrew Thompson and Georgy Manucharyan looking at [CNNs for turbulence prediction](../papers/turbulence/)
-* I'm not just an academic; I was brielfy a **consultant for a London-based financial start-up** building ML tools for automated business valuations.
+* I'm not just an academic; I was briefly a **consultant for a London-based financial start-up** building ML tools for automating business valuations.
 
 ### Non-academic 
 * I like trail running! My partner and I recently did the **[Scilly60 ultra-marathon](https://scilly60.co.uk)** and have nearly finished **running the Camino de Santiago**\*\* across the north of Spain.

@@ -12,20 +12,27 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: papers/
-          weight: 2
         - name: Home
           url: /
           weight: 1
+        - name: More about me
+          url: moreaboutme/
+          weight: 2
+        - name: Research
+          url: papers/
+          weight: 3
+        - name: Teaching
+          url: teaching/
+          weight: 4
         - name: CV
           url: cv.pdf
-          weight: 3
-         # url: data/
-          #weight: 3 
-        #- name: Readings
-         # url: readings/
-          #weight: 4
+          weight: 5
+        - name: RatInABox
+          url: https://github.com/RatInABox-Lab/RatInABox
+          weight: 6
+        - name: CaMinA
+          url: https://trendinafrica.org/trend-camina/
+          weight: 7
 
 params:
     description: "because www.tom.com was taken"
@@ -34,7 +41,7 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -53,7 +60,7 @@ params:
     profileMode:
           enabled: true
           title: Tom George
-          subtitle: "Hi, I'm at PhD student at UCL$^*$ studying theoretical neuroscience and machine learning. 
+          subtitle: "Hi, I'm at **PhD student at UCL**$^*$ studying **theoretical neuroscience and machine learning**. 
                     <br><br>
                     My research is in spatial navigation, reinforcement learning and representation learning -- I use theoretical methods and data-driven techniques from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
                     <br><br>
@@ -61,8 +68,7 @@ params:
                     <br><br>
                     **Get in touch!** If any of the above interests you, or you are pursuing similar goals, I'd love to [chat.](mailto:tom.george.20@ucl.ac.uk)
                     <br>
-                    * 
-                    <sub>submitting soon and seeking postdocs. I'll be in the Bay Area doing an AI residency at Google X until mid-2025.</sub>
+                    *<small>submitting soon and seeking postdocs/jobs. I'll be in San Francisco doing an AI residency at Google X until mid-2025.</small>
                     "
                     
           imageUrl: "picture.png"
@@ -82,8 +88,6 @@ params:
               url: https://github.com/RatInABox-Lab/RatInABox
             - name: CaMinA
               url: https://trendinafrica.org/trend-camina/
-
-
 
     socialIcons:
         - name: CV
