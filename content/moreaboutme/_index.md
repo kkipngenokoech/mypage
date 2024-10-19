@@ -1,6 +1,6 @@
 ## Wow, you wanted to know more about me...
 
-### Mostly academic 
+### Mostly academic stuff
 * In 2025, I'll be starting as an **AI resident at [X](https://x.company), the moonshot factory** working on ~top secret Google  stuff~
 * I did my **PhD at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), UCL**. 
 * It was during this time I met an amazing group of neuroscientists from across the world and we **set up the [TReND CaMinA summer school](https://trendinafrica.org/trend-camina/)**\*
@@ -12,7 +12,7 @@
 * I did a **[summer undergraduate reseach fellowship](https://sfp.caltech.edu/undergraduate-research/programs/surf) at Caltech**\*\* with Profs. Andrew Thompson and Georgy Manucharyan looking at [CNNs for turbulence prediction](../papers/turbulence/)
 * I'm not just an academic; I was briefly a **consultant for a London-based financial start-up** building ML tools for automating business valuations.
 
-### Non-academic 
+### Non-academic stuff
 * I like trail running! My partner and I recently did the **[Scilly60 ultra-marathon](https://scilly60.co.uk)** and have nearly finished **running the Camino de Santiago**\*\* across the north of Spain.
 * I used to dabble in **[drone videography](https://www.instagram.com/tomgeorgedroneson)** until I crashed it into a university in Rwanda. 
 * I brew and ferment a lot of things. 

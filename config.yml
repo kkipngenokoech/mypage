@@ -102,6 +102,9 @@ params:
           url: https://github.com/TomGeorge1234
         - name: Twitter
           url: https://twitter.com/tomnotgeorge
+        # - name: Zoom
+          # url: https://ucl.zoom.us/my/zoom.tom.george 
+
     
     social:
         github: TomGeorge1234
