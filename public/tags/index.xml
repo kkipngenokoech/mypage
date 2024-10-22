@@ -2,402 +2,402 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tom George</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://TomGeorge1234.github.io/tags/</link>
     <description>Recent content in Tags on Tom George</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TomGeorge1234.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dimensionality Reduction</title>
-      <link>http://localhost:1313/tags/dimensionality-reduction/</link>
+      <link>https://TomGeorge1234.github.io/tags/dimensionality-reduction/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dimensionality-reduction/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/dimensionality-reduction/</guid>
       <description></description>
     </item>
     <item>
       <title>Grid Cells</title>
-      <link>http://localhost:1313/tags/grid-cells/</link>
+      <link>https://TomGeorge1234.github.io/tags/grid-cells/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/grid-cells/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/grid-cells/</guid>
       <description></description>
     </item>
     <item>
       <title>Latents</title>
-      <link>http://localhost:1313/tags/latents/</link>
+      <link>https://TomGeorge1234.github.io/tags/latents/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/latents/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/latents/</guid>
       <description></description>
     </item>
     <item>
       <title>Place Filds</title>
-      <link>http://localhost:1313/tags/place-filds/</link>
+      <link>https://TomGeorge1234.github.io/tags/place-filds/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/place-filds/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/place-filds/</guid>
       <description></description>
     </item>
     <item>
       <title>Tuning Curves</title>
-      <link>http://localhost:1313/tags/tuning-curves/</link>
+      <link>https://TomGeorge1234.github.io/tags/tuning-curves/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tuning-curves/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/tuning-curves/</guid>
       <description></description>
     </item>
     <item>
       <title>Hippocampus</title>
-      <link>http://localhost:1313/tags/hippocampus/</link>
+      <link>https://TomGeorge1234.github.io/tags/hippocampus/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hippocampus/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/hippocampus/</guid>
       <description></description>
     </item>
     <item>
       <title>Replay</title>
-      <link>http://localhost:1313/tags/replay/</link>
+      <link>https://TomGeorge1234.github.io/tags/replay/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/replay/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/replay/</guid>
       <description></description>
     </item>
     <item>
       <title>Sequence Detection</title>
-      <link>http://localhost:1313/tags/sequence-detection/</link>
+      <link>https://TomGeorge1234.github.io/tags/sequence-detection/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sequence-detection/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/sequence-detection/</guid>
       <description></description>
     </item>
     <item>
       <title>Striatum</title>
-      <link>http://localhost:1313/tags/striatum/</link>
+      <link>https://TomGeorge1234.github.io/tags/striatum/</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/striatum/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/striatum/</guid>
       <description></description>
     </item>
     <item>
       <title>Generative Models</title>
-      <link>http://localhost:1313/tags/generative-models/</link>
+      <link>https://TomGeorge1234.github.io/tags/generative-models/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/generative-models/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/generative-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Helmholtz Machines</title>
-      <link>http://localhost:1313/tags/helmholtz-machines/</link>
+      <link>https://TomGeorge1234.github.io/tags/helmholtz-machines/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/helmholtz-machines/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/helmholtz-machines/</guid>
       <description></description>
     </item>
     <item>
       <title>Local Learning</title>
-      <link>http://localhost:1313/tags/local-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/local-learning/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/local-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/local-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Thet</title>
-      <link>http://localhost:1313/tags/thet/</link>
+      <link>https://TomGeorge1234.github.io/tags/thet/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thet/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/thet/</guid>
       <description></description>
     </item>
     <item>
       <title>Boundary Vector Cells</title>
-      <link>http://localhost:1313/tags/boundary-vector-cells/</link>
+      <link>https://TomGeorge1234.github.io/tags/boundary-vector-cells/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/boundary-vector-cells/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/boundary-vector-cells/</guid>
       <description></description>
     </item>
     <item>
       <title>Head Direction Cells</title>
-      <link>http://localhost:1313/tags/head-direction-cells/</link>
+      <link>https://TomGeorge1234.github.io/tags/head-direction-cells/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/head-direction-cells/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/head-direction-cells/</guid>
       <description></description>
     </item>
     <item>
       <title>Locomotion</title>
-      <link>http://localhost:1313/tags/locomotion/</link>
+      <link>https://TomGeorge1234.github.io/tags/locomotion/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/locomotion/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/locomotion/</guid>
       <description></description>
     </item>
     <item>
       <title>Navigation</title>
-      <link>http://localhost:1313/tags/navigation/</link>
+      <link>https://TomGeorge1234.github.io/tags/navigation/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/navigation/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/navigation/</guid>
       <description></description>
     </item>
     <item>
       <title>Neural Data</title>
-      <link>http://localhost:1313/tags/neural-data/</link>
+      <link>https://TomGeorge1234.github.io/tags/neural-data/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neural-data/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/neural-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
+      <link>https://TomGeorge1234.github.io/tags/open-source/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Place Cells</title>
-      <link>http://localhost:1313/tags/place-cells/</link>
+      <link>https://TomGeorge1234.github.io/tags/place-cells/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/place-cells/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/place-cells/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://TomGeorge1234.github.io/tags/python/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Reinforcement Learning</title>
-      <link>http://localhost:1313/tags/reinforcement-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/reinforcement-learning/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/reinforcement-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Synthetic Data</title>
-      <link>http://localhost:1313/tags/synthetic-data/</link>
+      <link>https://TomGeorge1234.github.io/tags/synthetic-data/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/synthetic-data/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/synthetic-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Toolkit</title>
-      <link>http://localhost:1313/tags/toolkit/</link>
+      <link>https://TomGeorge1234.github.io/tags/toolkit/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/toolkit/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/toolkit/</guid>
       <description></description>
     </item>
     <item>
       <title>Bootstrapping</title>
-      <link>http://localhost:1313/tags/bootstrapping/</link>
+      <link>https://TomGeorge1234.github.io/tags/bootstrapping/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bootstrapping/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/bootstrapping/</guid>
       <description></description>
     </item>
     <item>
       <title>Representations</title>
-      <link>http://localhost:1313/tags/representations/</link>
+      <link>https://TomGeorge1234.github.io/tags/representations/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/representations/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/representations/</guid>
       <description></description>
     </item>
     <item>
       <title>Tdlambda</title>
-      <link>http://localhost:1313/tags/tdlambda/</link>
+      <link>https://TomGeorge1234.github.io/tags/tdlambda/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tdlambda/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/tdlambda/</guid>
       <description></description>
     </item>
     <item>
       <title>Theta</title>
-      <link>http://localhost:1313/tags/theta/</link>
+      <link>https://TomGeorge1234.github.io/tags/theta/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theta/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/theta/</guid>
       <description></description>
     </item>
     <item>
       <title>Theta Sequences</title>
-      <link>http://localhost:1313/tags/theta-sequences/</link>
+      <link>https://TomGeorge1234.github.io/tags/theta-sequences/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theta-sequences/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/theta-sequences/</guid>
       <description></description>
     </item>
     <item>
       <title>Stdp</title>
-      <link>http://localhost:1313/tags/stdp/</link>
+      <link>https://TomGeorge1234.github.io/tags/stdp/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stdp/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/stdp/</guid>
       <description></description>
     </item>
     <item>
       <title>Successor Representations</title>
-      <link>http://localhost:1313/tags/successor-representations/</link>
+      <link>https://TomGeorge1234.github.io/tags/successor-representations/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/successor-representations/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/successor-representations/</guid>
       <description></description>
     </item>
     <item>
       <title>Cnn</title>
-      <link>http://localhost:1313/tags/cnn/</link>
+      <link>https://TomGeorge1234.github.io/tags/cnn/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cnn/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/cnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/machine-learning/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Ocenaography</title>
-      <link>http://localhost:1313/tags/ocenaography/</link>
+      <link>https://TomGeorge1234.github.io/tags/ocenaography/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocenaography/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/ocenaography/</guid>
       <description></description>
     </item>
     <item>
       <title>Turbulence</title>
-      <link>http://localhost:1313/tags/turbulence/</link>
+      <link>https://TomGeorge1234.github.io/tags/turbulence/</link>
       <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/turbulence/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/turbulence/</guid>
       <description></description>
     </item>
     <item>
       <title>Chunking</title>
-      <link>http://localhost:1313/tags/chunking/</link>
+      <link>https://TomGeorge1234.github.io/tags/chunking/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chunking/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/chunking/</guid>
       <description></description>
     </item>
     <item>
       <title>Reservoir Computing</title>
-      <link>http://localhost:1313/tags/reservoir-computing/</link>
+      <link>https://TomGeorge1234.github.io/tags/reservoir-computing/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reservoir-computing/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/reservoir-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Sequential Data</title>
-      <link>http://localhost:1313/tags/sequential-data/</link>
+      <link>https://TomGeorge1234.github.io/tags/sequential-data/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sequential-data/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/sequential-data/</guid>
       <description></description>
     </item>
     <item>
       <title>Unsupervised Learning</title>
-      <link>http://localhost:1313/tags/unsupervised-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/unsupervised-learning/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/unsupervised-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Neural Networks</title>
-      <link>http://localhost:1313/tags/neural-networks/</link>
+      <link>https://TomGeorge1234.github.io/tags/neural-networks/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neural-networks/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/neural-networks/</guid>
       <description></description>
     </item>
     <item>
       <title>Representation Learning</title>
-      <link>http://localhost:1313/tags/representation-learning/</link>
+      <link>https://TomGeorge1234.github.io/tags/representation-learning/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/representation-learning/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/representation-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Selectivity</title>
-      <link>http://localhost:1313/tags/selectivity/</link>
+      <link>https://TomGeorge1234.github.io/tags/selectivity/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/selectivity/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/selectivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cancer</title>
-      <link>http://localhost:1313/tags/cancer/</link>
+      <link>https://TomGeorge1234.github.io/tags/cancer/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cancer/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/cancer/</guid>
       <description></description>
     </item>
     <item>
       <title>Transcriptomics</title>
-      <link>http://localhost:1313/tags/transcriptomics/</link>
+      <link>https://TomGeorge1234.github.io/tags/transcriptomics/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transcriptomics/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/transcriptomics/</guid>
       <description></description>
     </item>
     <item>
       <title>Variational Autoencoders</title>
-      <link>http://localhost:1313/tags/variational-autoencoders/</link>
+      <link>https://TomGeorge1234.github.io/tags/variational-autoencoders/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/variational-autoencoders/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/variational-autoencoders/</guid>
       <description></description>
     </item>
     <item>
       <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <link>https://TomGeorge1234.github.io/tags/irregular-verbs/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
+      <link>https://TomGeorge1234.github.io/tags/philology/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
+      <link>https://TomGeorge1234.github.io/tags/portuguese/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
+      <link>https://TomGeorge1234.github.io/tags/romance-languages/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
+      <link>https://TomGeorge1234.github.io/tags/spanish/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugese</title>
-      <link>http://localhost:1313/tags/portugese/</link>
+      <link>https://TomGeorge1234.github.io/tags/portugese/</link>
       <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugese/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/portugese/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>http://localhost:1313/tags/celtic-languages/</link>
+      <link>https://TomGeorge1234.github.io/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/celtic-languages/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>http://localhost:1313/tags/irish/</link>
+      <link>https://TomGeorge1234.github.io/tags/irish/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irish/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>http://localhost:1313/tags/language-modernization/</link>
+      <link>https://TomGeorge1234.github.io/tags/language-modernization/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-modernization/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>http://localhost:1313/tags/profanity/</link>
+      <link>https://TomGeorge1234.github.io/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profanity/</guid>
+      <guid>https://TomGeorge1234.github.io/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>
