@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Successor Representations on Tom George</title>
-    <link>https://TomGeorge1234.github.io/tags/successor-representations/</link>
+    <link>http://localhost:1313/tags/successor-representations/</link>
     <description>Recent content in Successor Representations on Tom George</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://TomGeorge1234.github.io/tags/successor-representations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/successor-representations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rapid learning of predictive maps with STDP and theta phase precession</title>
-      <link>https://TomGeorge1234.github.io/papers/stdpsr/</link>
+      <link>http://localhost:1313/papers/stdpsr/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://TomGeorge1234.github.io/papers/stdpsr/</guid>
+      <guid>http://localhost:1313/papers/stdpsr/</guid>
       <description>We study how successor representations can be learned in a biologically plausible way by hippocampal neurons using STDP and theta phase procession.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tdlambda on Tom George</title>
-    <link>https://TomGeorge1234.github.io/tags/tdlambda/</link>
+    <link>http://localhost:1313/tags/tdlambda/</link>
     <description>Recent content in Tdlambda on Tom George</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://TomGeorge1234.github.io/tags/tdlambda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tdlambda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theta sequences as eligibility traces: A biological solution to credit assignment</title>
-      <link>https://TomGeorge1234.github.io/papers/eligibilitytheta/</link>
+      <link>http://localhost:1313/papers/eligibilitytheta/</link>
       <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://TomGeorge1234.github.io/papers/eligibilitytheta/</guid>
+      <guid>http://localhost:1313/papers/eligibilitytheta/</guid>
       <description>This short paper demonstrates a symmetry between theta sequences and eligibility traces, potentially explaining how credit assignment is implemented in the brain.</description>
     </item>
   </channel>
