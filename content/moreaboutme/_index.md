@@ -16,8 +16,8 @@
 * I like trail running! My partner and I recently did the **[Scilly60 ultra-marathon](https://scilly60.co.uk)** and have nearly finished **running the Camino de Santiago**\*\* across the north of Spain.
 * I used to dabble in **[drone videography](https://www.instagram.com/tomgeorgedroneson)** until I crashed it into a university in Rwanda. 
 * I brew and ferment a lot of things. 
-* Whilst living in London, my friends and I have been **trying to map-out [all good pubs worth going to.](https://www.google.com/maps/d/edit?mid=1XN_XfVnvRMo0FnufJdWrQLTRyEZMVPEL&ll=51.50715616579335%2C-0.1378428999999759&z=11)** Contribs are welcomed. 
+* Whilst living in London, my friends and I have been **trying to map [all good pubs worth going to.](https://www.google.com/maps/d/edit?mid=1XN_XfVnvRMo0FnufJdWrQLTRyEZMVPEL&ll=51.50715616579335%2C-0.1378428999999759&z=11)** Contribs are welcomed. 
 
-\* an amazing experiences which I would recommend to any student. Drop me an [email](mailto:tomgeorge1@btinternet.com) if you want to know more or how to apply.
+\* an amazing experience which I would recommend to any student. Drop me an [email](mailto:tomgeorge1@btinternet.com) if you want to know more or how to apply.
 
 \*\* top ten experiences of my life...seriously. 
