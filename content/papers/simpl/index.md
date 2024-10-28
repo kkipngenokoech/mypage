@@ -20,8 +20,7 @@ editPost:
 ##### Download
 
 + [Paper](simpl.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Code and data](https://anonymous.4open.science/r/simpl/README.md)
 
 ---
 
