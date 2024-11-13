@@ -19,8 +19,9 @@ editPost:
 
 ##### Download
 
++ [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.11.623030v1)
 + [Paper](simpl.pdf)
-+ [Code and data](https://anonymous.4open.science/r/simpl/README.md)
++ [Code and data](https://github.com/TomGeorge1234/SIMPL)
 
 ---
 
@@ -32,24 +33,24 @@ High-dimensional neural activity in the brain is known to encode low-dimensional
 
 ##### Citation
 
-This paper is current unpublished and under review. Please check back later for the citation.
-
-<!-- Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+George, T. M., Glaser, P., Stachenfeld, K., Barry, C., & Clopath, C. (2024). SIMPL: Scalable and hassle-free optimization of neural representations from behaviour. bioRxiv. doi:10.1101/2024.11.11.623030
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-``` -->
+@article {George2024SIMPL,
+	author = {George, Tom M and Glaser, Pierre and Stachenfeld, Kimberly and Barry, Caswell and Clopath, Claudia},
+	title = {SIMPL: Scalable and hassle-free optimization of neural representations from behaviour},
+	elocation-id = {2024.11.11.623030},
+	year = {2024},
+	doi = {10.1101/2024.11.11.623030},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2024/11/12/2024.11.11.623030},
+	eprint = {https://www.biorxiv.org/content/early/2024/11/12/2024.11.11.623030.full.pdf},
+	journal = {bioRxiv}
+}
+```
 
 ---
 
 ##### Related material
 
-+ [Cosyne abstract](cosyne.pdf)
++ [Two page summary](cosyne.pdf)
