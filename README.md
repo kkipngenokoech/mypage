@@ -29,7 +29,7 @@ The website produced by the template can be viewed at https://pascalmichaillat.o
 
 ### Development
 
-Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at http://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
+Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and makes it available at https://localhost:1313. You can modify the content of the repository and develop your website entirely on your local machine.
 
 ### Compilation
 
