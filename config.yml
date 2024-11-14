@@ -60,7 +60,7 @@ params:
     profileMode:
           enabled: true
           title: Tom George
-          subtitle: "Hi, I'm at **PhD student at UCL**$^*$ studying **theoretical neuroscience and machine learning**. 
+          subtitle: "Hi, I'm a **PhD student at UCL**$^*$ studying **theoretical neuroscience and machine learning**. 
                     <br><br>
                     My research is in spatial navigation, reinforcement learning and representation learning -- I use theoretical methods and data-driven techniques from machine learning to understand  biological intelligence (NeuroAI) under the supervision of [**Kimberly Stachenfeld**](https://neurokim.com) (Google DeepMind), [**Claudia Clopath**](https://cclopath.bg-research.cc.ic.ac.uk) (Imperial) and [**Caswell Barry**](https://barry-lab.com) (UCL).
                     <br><br>
