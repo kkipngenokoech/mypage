@@ -1,6 +1,6 @@
 ---
 title: "SIMPL: Scalable and hassle-free optimisation of neural representations from behaviour"
-date: 2024-10-01
+date: 2025-04-01
 tags: ["latents", "place filds", "grid cells", "tuning curves", "dimensionality reduction"]
 author: ["Tom M George", "Pierre Glaser", "Kimberly Stachenfeld", "Caswell Barry", "Claudia Clopath"]
 summary: "An efficient technique for optimising tuning curves starting from behaviour by iteratively refitting the tuning curves and redecoding the latent variables." 
@@ -9,7 +9,6 @@ cover:
     relative: false
 editPost:
     URL: ""
-    Text: "unpublished (under review)"
 
 ---
 
@@ -19,7 +18,7 @@ editPost:
 
 ##### Download
 
-+ [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.11.11.623030v1)
++ [OpenReview (ICLR)](https://openreview.net/forum?id=9kFaNwX6rv)
 + [Paper](simpl.pdf)
 + [Code and data](https://github.com/TomGeorge1234/SIMPL)
 
@@ -27,25 +26,22 @@ editPost:
 
 ##### Abstract
 
-High-dimensional neural activity in the brain is known to encode low-dimensional, time-evolving, behaviour-related variables. A fundamental goal of neural data analysis consists of identifying such variables and their mapping to neural activity. The canonical approach is to assume the latent variables are behaviour and visualize the subsequent tuning curves. However, significant mismatches between behaviour and the encoded variables may still exist --- the agent may be thinking of another location, or be uncertain of its own --- distorting the tuning curves and decreasing their interpretability. To address this issue a variety of methods have been proposed to learn this latent variable in an unsupervised manner; these techniques are typically expensive to train, come with many hyperparameters or scale poorly to large datasets complicating their adoption in practice. To solve these issues we propose SIMPL (Scalable Iterative Maximization of Population-coded Latents), an EM-style algorithm which iteratively optimizes latent variables and tuning curves. SIMPL is fast, scalable and exploits behaviour as an initial condition to further improve convergence and identifiability. We show SIMPL accurately recovers latent variables in biologically-inspired spatial and non-spatial tasks. When applied to a large rodent hippocampal dataset SIMPL efficiently finds a modified latent space with smaller, more numerous, and more uniformly-sized place fields than those based on behaviour, suggesting the brain may encode space with greater resolution than previously thought.
+Neural activity in the brain is known to encode low-dimensional, time-evolving, behaviour-related variables. A long-standing goal of neural data analysis has been to identify these variables and their mapping to neural activity. A productive and canonical approach has been to simply visualise neural "tuning curves" as a function of behaviour. However, significant discrepancies between behaviour and the true latent variables -- such as an agent thinking of position Y whilst located at position X -- distort and blur the tuning curves, decreasing their interpretability. To address this, latent variable models propose to learn the latent variable from data; these are typically expensive, hard to tune, or scale poorly, complicating their adoption. Here we propose SIMPL (Scalable Iterative Maximization of Population-coded Latents), an EM-style algorithm which iteratively optimises latent variables and tuning curves. SIMPL is fast, scalable and exploits behaviour as an initial condition to further improve convergence and identifiability. It can accurately recover latent variables in spatial and non-spatial tasks. When applied to a large hippocampal dataset SIMPL converges on smaller, more numerous, and more uniformly sized place fields than those based on behaviour, suggesting the brain may encode space with greater resolution than previously thought.
 
 ---
 
 ##### Citation
 
-George, T. M., Glaser, P., Stachenfeld, K., Barry, C., & Clopath, C. (2024). SIMPL: Scalable and hassle-free optimization of neural representations from behaviour. bioRxiv. doi:10.1101/2024.11.11.623030
+George, T. M., Glaser, P., Stachenfeld, K., Barry, C., & Clopath, C. (2025). SIMPL: Scalable and hassle-free optimisation of neural representations from behaviour. In The Thirteenth International Conference on Learning Representations.
 
 ```BibTeX
-@article {George2024SIMPL,
-	author = {George, Tom M and Glaser, Pierre and Stachenfeld, Kimberly and Barry, Caswell and Clopath, Claudia},
-	title = {SIMPL: Scalable and hassle-free optimization of neural representations from behaviour},
-	elocation-id = {2024.11.11.623030},
-	year = {2024},
-	doi = {10.1101/2024.11.11.623030},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2024/11/12/2024.11.11.623030},
-	eprint = {https://www.biorxiv.org/content/early/2024/11/12/2024.11.11.623030.full.pdf},
-	journal = {bioRxiv}
+@inproceedings{
+george2025simpl,
+title={{SIMPL}: Scalable and hassle-free optimisation of neural representations from behaviour},
+author={Tom George and Pierre Glaser and Kim Stachenfeld and Caswell Barry and Claudia Clopath},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=9kFaNwX6rv}
 }
 ```
 
@@ -54,3 +50,4 @@ George, T. M., Glaser, P., Stachenfeld, K., Barry, C., & Clopath, C. (2024). SIM
 ##### Related material
 
 + [Two page summary](cosyne.pdf)
++ [Poster](simpl_poster.pdf)

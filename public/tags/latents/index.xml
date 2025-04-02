@@ -6,12 +6,12 @@
     <description>Recent content in Latents on Tom George</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/latents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SIMPL: Scalable and hassle-free optimisation of neural representations from behaviour</title>
       <link>http://localhost:1313/papers/simpl/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/simpl/</guid>
       <description>An efficient technique for optimising tuning curves starting from behaviour by iteratively refitting the tuning curves and redecoding the latent variables.</description>
     </item>
