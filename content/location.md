@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Kipngeno Koech's contact information at Carnegie Mellon University Africa."
 
 ---
 
@@ -10,14 +10,25 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Kipngeno Koech  
+Engineering AI Program  
+Carnegie Mellon University Africa  
+Kigali, Rwanda
+
+#### Email
+
+bkoech@andrew.cmu.edu
 
 ---
 
 #### Office address
+
+Carnegie Mellon University Africa  
+Kigali, Rwanda
+
+---
+
+*Please note: Specific office location and hours may vary. Contact via email for current availability.*
 
 Room 133  
 Institute of Romance Philology  

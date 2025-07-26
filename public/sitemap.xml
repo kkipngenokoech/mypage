@@ -2,241 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mypage/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/boundary-vector-cells/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/grid-cells/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/head-direction-cells/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hippocampus/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/locomotion/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/navigation/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/neural-data/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/phd_thesis/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/place-cells/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/synthetic-data/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/toolkit/</loc>
-    <lastmod>2025-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/dimensionality-reduction/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/latents/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/place-filds/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/simpl/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tuning-curves/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/replay/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/ppseqreplay/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sequence-detection/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/striatum/</loc>
-    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/location/</loc>
+    <loc>http://localhost:1313/mypage/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
+    <loc>http://localhost:1313/mypage/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/helmholtzhippocampus/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/generative-models/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/helmholtz-machines/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/local-learning/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/thet/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/ratinabox/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/bootstrapping/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/representations/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tdlambda/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/theta/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/theta-sequences/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/eligibilitytheta/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/stdpsr/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/stdp/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/successor-representations/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cnn/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/turbulence/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ocenaography/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/turbulence/</loc>
-    <lastmod>2021-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/chunking/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reservoir-computing/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/reserviornets/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sequential-data/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/deep-learning/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/neural-networks/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/representation-learning/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/selectivity/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/whatmakesneuronspicky/</loc>
-    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cancer/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/transcriptomics/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/ovaerian/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/variational-autoencoders/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>http://localhost:1313/mypage/courses/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
+    <loc>http://localhost:1313/mypage/tags/irregular-verbs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course1/</loc>
+    <loc>http://localhost:1313/mypage/courses/course1/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philology/</loc>
+    <loc>http://localhost:1313/mypage/tags/philology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/portuguese/</loc>
+    <loc>http://localhost:1313/mypage/tags/portuguese/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/romance-languages/</loc>
+    <loc>http://localhost:1313/mypage/tags/romance-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spanish/</loc>
+    <loc>http://localhost:1313/mypage/tags/spanish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/</loc>
+    <loc>http://localhost:1313/mypage/tags/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mypage/books/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/portugese/</loc>
+    <loc>http://localhost:1313/mypage/tags/portugese/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/books/book1/</loc>
+    <loc>http://localhost:1313/mypage/books/book1/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/celtic-languages/</loc>
+    <loc>http://localhost:1313/mypage/tags/celtic-languages/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irish/</loc>
+    <loc>http://localhost:1313/mypage/tags/irish/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/language-modernization/</loc>
+    <loc>http://localhost:1313/mypage/tags/language-modernization/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/profanity/</loc>
+    <loc>http://localhost:1313/mypage/tags/profanity/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/courses/course2/</loc>
+    <loc>http://localhost:1313/mypage/courses/course2/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/moreaboutme/</loc>
+    <loc>http://localhost:1313/mypage/moreaboutme/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>http://localhost:1313/mypage/papers/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://localhost:1313/mypage/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mypage/archive/</loc>
   </url>
 </urlset>

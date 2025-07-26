@@ -1,4 +1,24 @@
-## Teaching materials 
+# Teaching Materials
+
+A list of teaching materials and resources. These are all open-source and free to use/adapt by anyone.
+
+*This section is currently a template. Add your teaching materials, courses, or educational content here.*
+
+---
+
+## Course/Tutorial Example
+
+Description of your course or tutorial materials.
+
+---
+
+## Workshop Example
+
+Description of any workshops you've taught or materials you've created.
+
+---
+
+*Add your own teaching content by editing this file and replacing these examples with your actual materials.*ls 
 
 A list of teaching materials by Tom George. These are all open-source and free to use/adapt by anyone.
 

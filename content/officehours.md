@@ -2,21 +2,30 @@
 title: "Office Hours"
 date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and availability for Kipngeno Koech."
 ---
 
---- 
-#### Schedule
+---
 
-Office hours take place on Wednesday at 10am.
+#### Availability
+
+Please email me to schedule a meeting or discussion.
 
 ---
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+Meetings can be arranged at Carnegie Mellon University Africa campus in Kigali, or virtually via Zoom/Teams.
 
 ---
+
+#### Booking
+
+Please email me at bkoech@andrew.cmu.edu to schedule an appointment or discuss any questions.
+
+---
+
+*I'm generally available for academic discussions, project collaborations, or questions about AI and machine learning.*
 
 #### Meeting material
 

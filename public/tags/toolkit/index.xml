@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Toolkit on Tom George</title>
-    <link>http://localhost:1313/tags/toolkit/</link>
+    <link>//localhost:1313/tags/toolkit/</link>
     <description>Recent content in Toolkit on Tom George</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/toolkit/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/toolkit/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD Thesis: Computational Models of Learning and Representations in the Hippocampal Formation</title>
-      <link>http://localhost:1313/papers/phd_thesis/</link>
+      <link>//localhost:1313/papers/phd_thesis/</link>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/phd_thesis/</guid>
+      <guid>//localhost:1313/papers/phd_thesis/</guid>
       <description>My PhD thesis.</description>
     </item>
     <item>
       <title>RatInABox, a toolkit for modelling locomotion and neuronal activity in continuous environments</title>
-      <link>http://localhost:1313/papers/ratinabox/</link>
+      <link>//localhost:1313/papers/ratinabox/</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/ratinabox/</guid>
+      <guid>//localhost:1313/papers/ratinabox/</guid>
       <description>This paper documents and motivates the RatInABox package, used for modellign locomotion and neural activity.</description>
     </item>
   </channel>

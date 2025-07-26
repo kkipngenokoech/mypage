@@ -1,403 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:content="https://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Tom George</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Tom George</description>
+    <title>Tags on Kipngeno Koech</title>
+    <link>http://localhost:1313/mypage/tags/</link>
+    <description>Recent content in Tags on Kipngeno Koech</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Boundary Vector Cells</title>
-      <link>http://localhost:1313/tags/boundary-vector-cells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/boundary-vector-cells/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grid Cells</title>
-      <link>http://localhost:1313/tags/grid-cells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/grid-cells/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Head Direction Cells</title>
-      <link>http://localhost:1313/tags/head-direction-cells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/head-direction-cells/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hippocampus</title>
-      <link>http://localhost:1313/tags/hippocampus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hippocampus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Locomotion</title>
-      <link>http://localhost:1313/tags/locomotion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/locomotion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Navigation</title>
-      <link>http://localhost:1313/tags/navigation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/navigation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neural Data</title>
-      <link>http://localhost:1313/tags/neural-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neural-data/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Open-Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Place Cells</title>
-      <link>http://localhost:1313/tags/place-cells/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/place-cells/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>http://localhost:1313/tags/reinforcement-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Synthetic Data</title>
-      <link>http://localhost:1313/tags/synthetic-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/synthetic-data/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Toolkit</title>
-      <link>http://localhost:1313/tags/toolkit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/toolkit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dimensionality Reduction</title>
-      <link>http://localhost:1313/tags/dimensionality-reduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dimensionality-reduction/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Latents</title>
-      <link>http://localhost:1313/tags/latents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/latents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Place Filds</title>
-      <link>http://localhost:1313/tags/place-filds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/place-filds/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tuning Curves</title>
-      <link>http://localhost:1313/tags/tuning-curves/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tuning-curves/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Replay</title>
-      <link>http://localhost:1313/tags/replay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/replay/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sequence Detection</title>
-      <link>http://localhost:1313/tags/sequence-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sequence-detection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Striatum</title>
-      <link>http://localhost:1313/tags/striatum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/striatum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Generative Models</title>
-      <link>http://localhost:1313/tags/generative-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/generative-models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Helmholtz Machines</title>
-      <link>http://localhost:1313/tags/helmholtz-machines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/helmholtz-machines/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Local Learning</title>
-      <link>http://localhost:1313/tags/local-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/local-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thet</title>
-      <link>http://localhost:1313/tags/thet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bootstrapping</title>
-      <link>http://localhost:1313/tags/bootstrapping/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bootstrapping/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Representations</title>
-      <link>http://localhost:1313/tags/representations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/representations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tdlambda</title>
-      <link>http://localhost:1313/tags/tdlambda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tdlambda/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theta</title>
-      <link>http://localhost:1313/tags/theta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theta/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theta Sequences</title>
-      <link>http://localhost:1313/tags/theta-sequences/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theta-sequences/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Stdp</title>
-      <link>http://localhost:1313/tags/stdp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stdp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Successor Representations</title>
-      <link>http://localhost:1313/tags/successor-representations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/successor-representations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cnn</title>
-      <link>http://localhost:1313/tags/cnn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cnn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ocenaography</title>
-      <link>http://localhost:1313/tags/ocenaography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocenaography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Turbulence</title>
-      <link>http://localhost:1313/tags/turbulence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/turbulence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chunking</title>
-      <link>http://localhost:1313/tags/chunking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chunking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reservoir Computing</title>
-      <link>http://localhost:1313/tags/reservoir-computing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reservoir-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sequential Data</title>
-      <link>http://localhost:1313/tags/sequential-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sequential-data/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unsupervised Learning</title>
-      <link>http://localhost:1313/tags/unsupervised-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/unsupervised-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neural Networks</title>
-      <link>http://localhost:1313/tags/neural-networks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/neural-networks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Representation Learning</title>
-      <link>http://localhost:1313/tags/representation-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/representation-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Selectivity</title>
-      <link>http://localhost:1313/tags/selectivity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/selectivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cancer</title>
-      <link>http://localhost:1313/tags/cancer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cancer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Transcriptomics</title>
-      <link>http://localhost:1313/tags/transcriptomics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transcriptomics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Variational Autoencoders</title>
-      <link>http://localhost:1313/tags/variational-autoencoders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/variational-autoencoders/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/mypage/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
+      <link>http://localhost:1313/mypage/tags/irregular-verbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
+      <guid>http://localhost:1313/mypage/tags/irregular-verbs/</guid>
       <description></description>
     </item>
     <item>
       <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
+      <link>http://localhost:1313/mypage/tags/philology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
+      <guid>http://localhost:1313/mypage/tags/philology/</guid>
       <description></description>
     </item>
     <item>
       <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
+      <link>http://localhost:1313/mypage/tags/portuguese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
+      <guid>http://localhost:1313/mypage/tags/portuguese/</guid>
       <description></description>
     </item>
     <item>
       <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
+      <link>http://localhost:1313/mypage/tags/romance-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
+      <guid>http://localhost:1313/mypage/tags/romance-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
+      <link>http://localhost:1313/mypage/tags/spanish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
+      <guid>http://localhost:1313/mypage/tags/spanish/</guid>
       <description></description>
     </item>
     <item>
       <title>Portugese</title>
-      <link>http://localhost:1313/tags/portugese/</link>
+      <link>http://localhost:1313/mypage/tags/portugese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugese/</guid>
+      <guid>http://localhost:1313/mypage/tags/portugese/</guid>
       <description></description>
     </item>
     <item>
       <title>Celtic Languages</title>
-      <link>http://localhost:1313/tags/celtic-languages/</link>
+      <link>http://localhost:1313/mypage/tags/celtic-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/celtic-languages/</guid>
+      <guid>http://localhost:1313/mypage/tags/celtic-languages/</guid>
       <description></description>
     </item>
     <item>
       <title>Irish</title>
-      <link>http://localhost:1313/tags/irish/</link>
+      <link>http://localhost:1313/mypage/tags/irish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irish/</guid>
+      <guid>http://localhost:1313/mypage/tags/irish/</guid>
       <description></description>
     </item>
     <item>
       <title>Language Modernization</title>
-      <link>http://localhost:1313/tags/language-modernization/</link>
+      <link>http://localhost:1313/mypage/tags/language-modernization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-modernization/</guid>
+      <guid>http://localhost:1313/mypage/tags/language-modernization/</guid>
       <description></description>
     </item>
     <item>
       <title>Profanity</title>
-      <link>http://localhost:1313/tags/profanity/</link>
+      <link>http://localhost:1313/mypage/tags/profanity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profanity/</guid>
+      <guid>http://localhost:1313/mypage/tags/profanity/</guid>
       <description></description>
     </item>
   </channel>
